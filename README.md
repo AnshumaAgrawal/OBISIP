@@ -1,4 +1,4 @@
 # OBISIP
-<h1>Calculator</h1><br>
-<h3>label-2</h3><br>
-<h3>task-1</h3>
+<h2>Calculator</h2><br>
+<h2>label-2</h2>
+<h2>task-1</h2>
